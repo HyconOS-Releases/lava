@@ -2,6 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/lava/v4.5/total.svg)](https://GitHub.com/Hycon-Releases/lava/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/lava/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/lava/releases)
 
